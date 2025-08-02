@@ -1,102 +1,57 @@
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+# 🎯 Mislead Calculator
 
-
-# [Project Name] 🎯
-
-
-## Basic Details
-### Team Name: [Name]
-
-
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
-
-### Project Description
-[2-3 lines about what your project does]
-
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
-
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
-## Technical Details
-### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+*A web-based calculator that’s intentionally **wrong** — every time. It refuses to show you the correct answer!*
 
 ---
-Made with ❤️ at TinkerHub Useless Projects 
 
-![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
-![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+## 🚀 Live Demo  
+Check out the live version running on GitHub Pages:  
+🔗 **[Try it Live (📱 Web Demo)](https://hishamhazain777.github.io/MISLEAD_CALCULATOR/)**
 
+---
 
+## 📘 Table of Contents
 
+- [About the Project](#-about-the-project)  
+- [🎓 Institution](#-institution)  
+- [👥 Team Pitham](#-team-pitham)  
+- [⚙️ Tech Stack](#️-tech-stack)  
+- [🛠️ Getting Started](#️-getting-started)  
+  - [Prerequisites](#prerequisites)  
+  - [Installation & Use](#installation--use)  
+- [📸 Screenshots & Workflow](#️-screenshots--workflow)  
+- [📂 Project Structure](#️-project-structure)  
+- [🪧 License & Contact](#️-license--contact)
+
+---
+
+## 🧠 About the Project
+
+Imagine having a calculator that’s *never right*, yet always *confident*. **Mislead Calculator** is a quirky, fun web app crafted with HTML, CSS, and JavaScript, designed to produce intentionally wrong math results. Whether you're calculating 3 × 3 or splitting a bill, expect confusion instead of correctness!
+
+[Visit the live demo to experience the “magic” yourself ✨](https://hishamhazain777.github.io/MISLEAD_CALCULATOR/)  
+(Similar interface confirmed via the public GitHub Pages deployment) :contentReference[oaicite:1]{index=1}
+
+---
+
+## 🎓 Institution
+
+**Albertian Institute of Science & Technology (AISAT)** – Technical Campus  
+Kalamassery, Cochin University P.O., Ernakulam, Kochi – 682 022, Kerala, India  
+
+AISAT is a Roman Catholic Latin Christian Minority institution founded by the Archdiocese of Verapoly. Spread over 12 acres, its campus is nestled near the Cochin University of Science & Technology and national transport links. The institute offers NBA‑accredited B. Tech programs including Computer Science & Engineering and AI/ML … making it the perfect place for passion projects like ours.
+
+*(You can insert the relevant citation here if available)*
+
+---
+
+## 👥 Team Pitham
+
+| Role        | Member           | Affiliation                      |
+|-------------|------------------|----------------------------------|
+| Team Lead   | Shaiza Shemeer   | AISAT Engineering College, Kochi |
+| Member 2    | Muhammed Hisham  | AISAT Engineering College, Kochi |
+
+---
+
+...rest of the existing readme sections follow...
